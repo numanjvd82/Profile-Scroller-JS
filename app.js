@@ -1,6 +1,6 @@
 // Event Listener
 const nextEvent = document
-  .getElementById("next")
+  .getElementById("next")   
   .addEventListener("click", getProfile);
 
 // Profile Data
